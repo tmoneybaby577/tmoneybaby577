@@ -4,14 +4,14 @@ I'm Tommy, a cybersecurity student @ JJAY College of Criminal Justice (undergrad
 
 💻 Tech & Interests
 
-   # Comfortable with Bash scripting, C++, and Python
-   # Exploring networking, cybersecurity research, and exploit development
-   # Studying cybersecurity and counterterrorism to strengthen global digital defenses
+   Comfortable with Bash scripting, C++, and Python
+   Exploring networking, cybersecurity research, and exploit development
+   Studying cybersecurity and counterterrorism to strengthen global digital defenses
 
 📚 Current Focus
 
-   # Learning offensive and defensive security techniques
-   # Studying for Comptia Security+ exam
-   # Expanding my knowledge in threat intelligence and vulnerability research
+   Learning offensive and defensive security techniques
+   Studying for Comptia Security+ exam
+   Expanding my knowledge in threat intelligence and vulnerability research
 
-Feel free to connect via my [LinkedIn Profile]([(https://www.linkedin.com/in/thomas-kimmeth/)]) or through the link attached to my profile.
+Feel free to connect via my [LinkedIn Profile][(https://www.linkedin.com/in/thomas-kimmeth/)]or through the link attached to my profile.
